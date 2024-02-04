@@ -1,9 +1,11 @@
-## Python Terminal Card Game, Monash Assignment
+## Python Terminal Card Game, 
+Individual Assignment, completed using pure Python 🐍
+Grade: HD
 
 This document contains:
 - Introduction
-- Game Rules / Winning Conditions
-- App Installation and Launch Instructions
+- [Game Rules / Winning Conditions](#Game-Rules-Winning-Conditions)
+- [App Installation and Launch Instructions](#App-Installation-and-Launch-Instructions)
 
 #### Introduction
 - This is a Python program that enables a user (player) to play a Card Game against a computer (robot). The program must have a text interface. 
