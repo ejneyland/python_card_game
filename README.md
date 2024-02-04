@@ -4,7 +4,7 @@ Grade: HD
 
 This document contains:
 - Introduction
-- [Game Rules / Winning Conditions](#game-rules-winning-conditions)
+- [Game Rules / Winning Conditions](#game-rules--winning-conditions)
 - [App Installation and Launch Instructions](#app-installation-and-launch-instructions)
 
 #### Introduction
