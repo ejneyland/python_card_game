@@ -49,3 +49,4 @@ Clone repository to your IDE:
 Launch the app:
 - from the main directory
 - enter ```python card_game.py``` in the terminal
+- follow the printed instructions given through terminal, then play each turn
