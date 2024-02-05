@@ -1,5 +1,8 @@
-## Python Terminal Card Game, 
-Individual Assignment, completed using pure Python 🐍
+## Python Terminal Card Game
+Individual Assignment (September 2023)
+
+Completed using pure Python 🐍 
+
 Grade: HD
 
 This document contains:
